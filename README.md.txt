@@ -1,0 +1,1 @@
+this program is based on python frameworks and it'll use training and testing to detect your face.
